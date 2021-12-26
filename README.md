@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ndrmtn from Morocco, I live in Oujda.
+- 👀 I’m interested in Mathematics, specifically in Algebra, Number Theory(Algebraic, Geometric, Analytic...), Cryptography, Computer Science, and Physics.
+- 🌱 I’m currently learning Lattice-Based Cryptography for my Ph.d (first year)
